@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "bmt", "bmt\bmt.vbproj", "{A3E0E73B-170F-41BC-AFAD-62693719FC05}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "B.M.T", "..\BMT-15\B.M.T\B.M.T.vdproj", "{D6411A1F-C107-4A53-B9E6-DA2EC08B582F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3E0E73B-170F-41BC-AFAD-62693719FC05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3E0E73B-170F-41BC-AFAD-62693719FC05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3E0E73B-170F-41BC-AFAD-62693719FC05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3E0E73B-170F-41BC-AFAD-62693719FC05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6411A1F-C107-4A53-B9E6-DA2EC08B582F}.Debug|Any CPU.ActiveCfg = Debug
+		{D6411A1F-C107-4A53-B9E6-DA2EC08B582F}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F88925D-91F1-41FD-847A-E52AB64FD14E}
+	EndGlobalSection
+EndGlobal

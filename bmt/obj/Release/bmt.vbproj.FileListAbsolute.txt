@@ -1,0 +1,124 @@
+C:\Users\Ranti Dwi Andini\Desktop\12-15-2019\bmttuf\bmt\obj\Release\bmt.vbprojResolveAssemblyReference.cache
+C:\Users\Ranti Dwi Andini\Desktop\12-15-2019\bmttuf\bmt\obj\Release\bmt.Barangkeluar.resources
+C:\Users\Ranti Dwi Andini\Desktop\12-15-2019\bmttuf\bmt\obj\Release\bmt.Cetak_PDF.resources
+C:\Users\Ranti Dwi Andini\Desktop\12-15-2019\bmttuf\bmt\obj\Release\bmt.cetak_cvr.resources
+C:\Users\Ranti Dwi Andini\Desktop\12-15-2019\bmttuf\bmt\obj\Release\bmt.cetak_pa.resources
+C:\Users\Ranti Dwi Andini\Desktop\12-15-2019\bmttuf\bmt\obj\Release\bmt.cetak_po.resources
+C:\Users\Ranti Dwi Andini\Desktop\12-15-2019\bmttuf\bmt\obj\Release\bmt.cetak_RI.resources
+C:\Users\Ranti Dwi Andini\Desktop\12-15-2019\bmttuf\bmt\obj\Release\bmt.Customer.resources
+C:\Users\Ranti Dwi Andini\Desktop\12-15-2019\bmttuf\bmt\obj\Release\bmt.Form2.resources
+C:\Users\Ranti Dwi Andini\Desktop\12-15-2019\bmttuf\bmt\obj\Release\bmt.FormCVR.resources
+C:\Users\Ranti Dwi Andini\Desktop\12-15-2019\bmttuf\bmt\obj\Release\bmt.Formlogin.resources
+C:\Users\Ranti Dwi Andini\Desktop\12-15-2019\bmttuf\bmt\obj\Release\bmt.FormPO.resources
+C:\Users\Ranti Dwi Andini\Desktop\12-15-2019\bmttuf\bmt\obj\Release\bmt.FormBrg.resources
+C:\Users\Ranti Dwi Andini\Desktop\12-15-2019\bmttuf\bmt\obj\Release\bmt.FormRfq.resources
+C:\Users\Ranti Dwi Andini\Desktop\12-15-2019\bmttuf\bmt\obj\Release\bmt.Formvendor.resources
+C:\Users\Ranti Dwi Andini\Desktop\12-15-2019\bmttuf\bmt\obj\Release\bmt.form_ship_to.resources
+C:\Users\Ranti Dwi Andini\Desktop\12-15-2019\bmttuf\bmt\obj\Release\bmt.Gudang.resources
+C:\Users\Ranti Dwi Andini\Desktop\12-15-2019\bmttuf\bmt\obj\Release\bmt.Home.resources
+C:\Users\Ranti Dwi Andini\Desktop\12-15-2019\bmttuf\bmt\obj\Release\bmt.FormQbi.resources
+C:\Users\Ranti Dwi Andini\Desktop\12-15-2019\bmttuf\bmt\obj\Release\bmt.inputlogistik.resources
+C:\Users\Ranti Dwi Andini\Desktop\12-15-2019\bmttuf\bmt\obj\Release\bmt.Input_RFQ.resources
+C:\Users\Ranti Dwi Andini\Desktop\12-15-2019\bmttuf\bmt\obj\Release\bmt.Resources.resources
+C:\Users\Ranti Dwi Andini\Desktop\12-15-2019\bmttuf\bmt\obj\Release\bmt.PA.resources
+C:\Users\Ranti Dwi Andini\Desktop\12-15-2019\bmttuf\bmt\obj\Release\bmt.Profile.resources
+C:\Users\Ranti Dwi Andini\Desktop\12-15-2019\bmttuf\bmt\obj\Release\bmt.regisakun.resources
+C:\Users\Ranti Dwi Andini\Desktop\12-15-2019\bmttuf\bmt\obj\Release\bmt.ViewAttchrfq.resources
+C:\Users\Ranti Dwi Andini\Desktop\12-15-2019\bmttuf\bmt\obj\Release\bmt.vbproj.GenerateResource.Cache
+C:\Users\Ranti Dwi Andini\Desktop\12-15-2019\bmttuf\bmt\obj\Release\bmt.vbproj.CoreCompileInputs.cache
+E:\Developer\AppBMT-(Dev)\bmt\obj\Release\BMT.Barangkeluar.resources
+E:\Developer\AppBMT-(Dev)\bmt\obj\Release\BMT.Cetak_PDF.resources
+E:\Developer\AppBMT-(Dev)\bmt\obj\Release\BMT.cetak_cvr.resources
+E:\Developer\AppBMT-(Dev)\bmt\obj\Release\BMT.cetak_pa.resources
+E:\Developer\AppBMT-(Dev)\bmt\obj\Release\BMT.cetak_po.resources
+E:\Developer\AppBMT-(Dev)\bmt\obj\Release\BMT.cetak_RI.resources
+E:\Developer\AppBMT-(Dev)\bmt\obj\Release\BMT.Customer.resources
+E:\Developer\AppBMT-(Dev)\bmt\obj\Release\BMT.Form2.resources
+E:\Developer\AppBMT-(Dev)\bmt\obj\Release\BMT.FormCVR.resources
+E:\Developer\AppBMT-(Dev)\bmt\obj\Release\BMT.Formlogin.resources
+E:\Developer\AppBMT-(Dev)\bmt\obj\Release\BMT.FormPO.resources
+E:\Developer\AppBMT-(Dev)\bmt\obj\Release\BMT.FormBrg.resources
+E:\Developer\AppBMT-(Dev)\bmt\obj\Release\BMT.FormRfq.resources
+E:\Developer\AppBMT-(Dev)\bmt\obj\Release\BMT.Formvendor.resources
+E:\Developer\AppBMT-(Dev)\bmt\obj\Release\BMT.form_ship_to.resources
+E:\Developer\AppBMT-(Dev)\bmt\obj\Release\BMT.Gudang.resources
+E:\Developer\AppBMT-(Dev)\bmt\obj\Release\BMT.Home.resources
+E:\Developer\AppBMT-(Dev)\bmt\obj\Release\BMT.FormQbi.resources
+E:\Developer\AppBMT-(Dev)\bmt\obj\Release\BMT.inputlogistik.resources
+E:\Developer\AppBMT-(Dev)\bmt\obj\Release\BMT.Input_RFQ.resources
+E:\Developer\AppBMT-(Dev)\bmt\obj\Release\BMT.Resources.resources
+E:\Developer\AppBMT-(Dev)\bmt\obj\Release\BMT.PA.resources
+E:\Developer\AppBMT-(Dev)\bmt\obj\Release\BMT.Profile.resources
+E:\Developer\AppBMT-(Dev)\bmt\obj\Release\BMT.regisakun.resources
+E:\Developer\AppBMT-(Dev)\bmt\obj\Release\BMT.ViewAttchrfq.resources
+E:\Developer\AppBMT-(Dev)\bmt\obj\Release\bmt.vbproj.GenerateResource.cache
+E:\Developer\AppBMT-(Dev)\bmt\obj\Release\bmt.vbproj.CoreCompileInputs.cache
+E:\Developer\off\bmt\bin\Release\BMT.exe.config
+E:\Developer\off\bmt\bin\Release\BMT.exe
+E:\Developer\off\bmt\bin\Release\BMT.pdb
+E:\Developer\off\bmt\bin\Release\BMT.xml
+E:\Developer\off\bmt\bin\Release\CrystalDecisions.CrystalReports.Design.dll
+E:\Developer\off\bmt\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+E:\Developer\off\bmt\bin\Release\CrystalDecisions.Data.AdoDotNetInterop.dll
+E:\Developer\off\bmt\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Developer\off\bmt\bin\Release\CrystalDecisions.ReportSource.dll
+E:\Developer\off\bmt\bin\Release\CrystalDecisions.Shared.dll
+E:\Developer\off\bmt\bin\Release\CrystalDecisions.VSDesigner.dll
+E:\Developer\off\bmt\bin\Release\CrystalDecisions.Web.dll
+E:\Developer\off\bmt\bin\Release\CrystalDecisions.Windows.Forms.dll
+E:\Developer\off\bmt\bin\Release\MySql.Data.dll
+E:\Developer\off\bmt\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Developer\off\bmt\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Developer\off\bmt\bin\Release\EnvDTE.dll
+E:\Developer\off\bmt\bin\Release\VSLangProj.dll
+E:\Developer\off\bmt\bin\Release\VsWebSite.Interop.dll
+E:\Developer\off\bmt\bin\Release\EnvDTE80.dll
+E:\Developer\off\bmt\bin\Release\AxShockwaveFlashObjects.dll
+E:\Developer\off\bmt\bin\Release\Google.Protobuf.dll
+E:\Developer\off\bmt\bin\Release\Zstandard.Net.dll
+E:\Developer\off\bmt\bin\Release\K4os.Compression.LZ4.Streams.dll
+E:\Developer\off\bmt\bin\Release\BouncyCastle.Crypto.dll
+E:\Developer\off\bmt\bin\Release\Ubiety.Dns.Core.dll
+E:\Developer\off\bmt\bin\Release\Renci.SshNet.dll
+E:\Developer\off\bmt\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Developer\off\bmt\bin\Release\stdole.dll
+E:\Developer\off\bmt\bin\Release\ShockwaveFlashObjects.dll
+E:\Developer\off\bmt\bin\Release\System.Memory.dll
+E:\Developer\off\bmt\bin\Release\System.Buffers.dll
+E:\Developer\off\bmt\bin\Release\K4os.Compression.LZ4.dll
+E:\Developer\off\bmt\bin\Release\K4os.Hash.xxHash.dll
+E:\Developer\off\bmt\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+E:\Developer\off\bmt\bin\Release\MySql.Data.xml
+E:\Developer\off\bmt\obj\Release\bmt.vbprojAssemblyReference.cache
+E:\Developer\off\bmt\obj\Release\BMT.exe.config
+E:\Developer\off\bmt\obj\Release\BMT.Barangkeluar.resources
+E:\Developer\off\bmt\obj\Release\BMT.Cetak_PDF.resources
+E:\Developer\off\bmt\obj\Release\BMT.cetak_cvr.resources
+E:\Developer\off\bmt\obj\Release\BMT.cetak_pa.resources
+E:\Developer\off\bmt\obj\Release\BMT.cetak_po.resources
+E:\Developer\off\bmt\obj\Release\BMT.cetak_RI.resources
+E:\Developer\off\bmt\obj\Release\BMT.Customer.resources
+E:\Developer\off\bmt\obj\Release\BMT.Form2.resources
+E:\Developer\off\bmt\obj\Release\BMT.FormCVR.resources
+E:\Developer\off\bmt\obj\Release\BMT.Formlogin.resources
+E:\Developer\off\bmt\obj\Release\BMT.FormPO.resources
+E:\Developer\off\bmt\obj\Release\BMT.FormBrg.resources
+E:\Developer\off\bmt\obj\Release\BMT.FormRfq.resources
+E:\Developer\off\bmt\obj\Release\BMT.Formvendor.resources
+E:\Developer\off\bmt\obj\Release\BMT.form_ship_to.resources
+E:\Developer\off\bmt\obj\Release\BMT.Gudang.resources
+E:\Developer\off\bmt\obj\Release\BMT.Home.resources
+E:\Developer\off\bmt\obj\Release\BMT.FormQbi.resources
+E:\Developer\off\bmt\obj\Release\BMT.inputlogistik.resources
+E:\Developer\off\bmt\obj\Release\BMT.Input_RFQ.resources
+E:\Developer\off\bmt\obj\Release\BMT.Resources.resources
+E:\Developer\off\bmt\obj\Release\BMT.PA.resources
+E:\Developer\off\bmt\obj\Release\BMT.Profile.resources
+E:\Developer\off\bmt\obj\Release\BMT.regisakun.resources
+E:\Developer\off\bmt\obj\Release\BMT.ViewAttchrfq.resources
+E:\Developer\off\bmt\obj\Release\bmt.vbproj.GenerateResource.cache
+E:\Developer\off\bmt\obj\Release\bmt.vbproj.CoreCompileInputs.cache
+E:\Developer\off\bmt\obj\Release\bmt.vbproj.CopyComplete
+E:\Developer\off\bmt\obj\Release\BMT.exe
+E:\Developer\off\bmt\obj\Release\BMT.xml
+E:\Developer\off\bmt\obj\Release\BMT.pdb
